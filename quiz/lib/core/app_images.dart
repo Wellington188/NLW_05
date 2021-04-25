@@ -7,4 +7,6 @@ class AppImages {
   static String get error => "assets/images/error.png";
   static String get trophy => "assets/images/trophy.png";
   static String get logo => "assets/images/logo.png";
+  static String get picLinkedin =>
+      "https://media-exp1.licdn.com/dms/image/C4D03AQF5MrolHN9UlA/profile-displayphoto-shrink_100_100/0/1614042761517?e=1624492800&v=beta&t=ZrdXPZVZpOLiMxqC1gxHNwd9pEmw1vRdJRSPVBa_Wio";
 }
