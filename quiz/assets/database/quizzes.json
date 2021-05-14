@@ -1,9 +1,6 @@
 [
     {
         "title": "NLW05 Flutter",
-        "imagem": "blocks",
-        "quistionAnswered": 1,
-        "level": "facil",
         "questions": [
             {
             "title": "Está curtindo o Flutter", 
@@ -14,6 +11,9 @@
                 {"title": "Péssimo :("}
                 ]    
             }
-        ]
+        ],
+        "quistionAnswered": 1,
+        "imagem": "blocks",
+        "level": "facil"
     }
 ]
